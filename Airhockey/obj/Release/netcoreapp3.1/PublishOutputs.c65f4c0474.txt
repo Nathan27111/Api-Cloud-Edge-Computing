@@ -1,0 +1,7 @@
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\Airhockey.exe
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\Airhockey.dll
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\Airhockey.deps.json
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\Airhockey.runtimeconfig.json
+D:\DotNetProjects\Airhockey\obj\Release\netcoreapp3.1\PubTmp\Out\Airhockey.pdb

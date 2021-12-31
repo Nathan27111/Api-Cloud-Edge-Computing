@@ -1,0 +1,126 @@
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.exe
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.deps.json
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.runtimeconfig.json
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.runtimeconfig.dev.json
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.pdb
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csprojAssemblyReference.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.AssemblyInfoInputs.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.AssemblyInfo.cs
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\staticwebassets\Airhockey.StaticWebAssets.Manifest.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\staticwebassets\Airhockey.StaticWebAssets.xml
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\scopedcss\bundle\Airhockey.styles.css
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.RazorTargetAssemblyInfo.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csproj.CopyComplete
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.pdb
+D:\DotNetProjects\Airhockey-API\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.genruntimeconfig.cache
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\DotNetProjects\Airhockey-API\Airhockey\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.exe
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.deps.json
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.runtimeconfig.json
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.runtimeconfig.dev.json
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Airhockey.pdb
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csprojAssemblyReference.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.AssemblyInfoInputs.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.AssemblyInfo.cs
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csproj.CoreCompileInputs.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.MvcApplicationPartsAssemblyInfo.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\staticwebassets\Airhockey.StaticWebAssets.Manifest.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\staticwebassets\Airhockey.StaticWebAssets.xml
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\scopedcss\bundle\Airhockey.styles.css
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.RazorTargetAssemblyInfo.cache
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.csproj.CopyComplete
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.dll
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.pdb
+D:\Mijn documenten\School\Howest\Semester 5\Cloud\API\api\Airhockey\obj\Debug\netcoreapp3.1\Airhockey.genruntimeconfig.cache
